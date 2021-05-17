@@ -25,7 +25,7 @@ With recent advancements in machine learning techniques, researchers have demons
 
 Click on the links below to open the corresponding notebooks in google colab. You can only run one at a time.
 
-1. BigGAN - [BigGAN_handson.ipynb](https://github.com/roberttwomey/machine-imagination-workshop/blob/main/BigGAN_handson.ipynb)
+1. BigGAN - [BigGAN_handson.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/BigGAN_handson.ipynb)
 2. Text to Image Generation with BigGAN and CLIP - [text_to_image_BiGGAN_CLIP.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/text_to_image_BigGAN_CLIP.ipynb)
 3. Generate latent interpolations - [generate_from_stored.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/generate_from_stored.ipynb)
 4. Batch process textual prompts - text_to_image_batch.ipynb (not yet implemented on colab)
