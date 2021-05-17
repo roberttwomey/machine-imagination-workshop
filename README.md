@@ -25,10 +25,10 @@ With recent advancements in machine learning techniques, researchers have demons
 
 Click on the links below to open the corresponding notebooks in google colab.
 
-0. BigGAN - 
-1. Text to Image Generation with BigGAN and CLIP - [text_to_image_BiGGAN_CLIP.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/text_to_image_BigGAN_CLIP.ipynb)
-2. Generate latent interpolations - [generate_from_stored.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/generate_from_stored.ipynb)
-3. Batch process textual prompts - text_to_image_batch.ipynb (not yet implemented on colab)
+1. BigGAN - [BigGAN_handson.ipynb](https://github.com/roberttwomey/machine-imagination-workshop/blob/main/BigGAN_handson.ipynb)
+2. Text to Image Generation with BigGAN and CLIP - [text_to_image_BiGGAN_CLIP.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/text_to_image_BigGAN_CLIP.ipynb)
+3. Generate latent interpolations - [generate_from_stored.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/generate_from_stored.ipynb)
+4. Batch process textual prompts - text_to_image_batch.ipynb (not yet implemented on colab)
 
 ## Discussion
 
@@ -61,8 +61,6 @@ __Generative Adversarial Networks (GANs)__
 A Generative Adversarial Network (GAN) is a kind of generative model. The basic idea is to set up a game between two players (game theory). The Generator creates samples that resemble the input dataset. The Discriminator evaluates samples to determine if they are real or fake (binary classifier). We can think of the generator as being like a counterfeiter, trying to make fake money, and the discriminator as being like police, trying to allow legitimate money and catch counterfeit money. To succeed in this game, the counterfeiter must learn to make money that is indistinguishable from genuine money, and the generator network must learn to create samples that are drawn from the same distribution as the training data. (adversarial) Both networks are trained simultaneously.
 
 Ian Goodfellow introduced the architecture in __Generative Adversarial Nets__, Goodfellow et. al (2014) https://arxiv.org/pdf/1406.2661.pdf
-
-
 
 __BigGAN__
 
