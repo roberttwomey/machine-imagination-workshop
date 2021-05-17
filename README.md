@@ -44,14 +44,12 @@ Click on the links below to open the corresponding notebooks in google colab.
   - see for example [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/), a photorealistic face generator with StyleGAN2
 - OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
   - see Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) for an example a book written with GPT-3.
-- OpenAI CLIP: [Connecting Text and Image](https://openai.com/blog/clip/), 2021
-- OpenAI DALL-E: ([link](https://openai.com/blog/dall-e/))
+- OpenAI [CLIP: Connecting Text and Image](https://openai.com/blog/clip/), 2021
+- OpenAI [DALL-E: Creating Images from Text](https://openai.com/blog/dall-e/), 2021
   - the interactive examples on this page will give you a sense of the kind of technique we will explore during the workshop.
-- Reddit [r/MachineLearning thread on CLIP-related text-to-image notebooks](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
+- Good [list of CLIP-related to text-to-image notebooks on Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 
 
 <!-- # Leftovers
 - What is a GAN (Generative Adversarial Network)? [TK Article on GANs]
-- How do computers understand/generate text? [TK]
-  - excerpts from Kenric Allado-McDowell's Pharmako-AI
--->
+- How do computers understand/generate text? [TK]-->
