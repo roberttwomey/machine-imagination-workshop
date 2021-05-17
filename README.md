@@ -12,13 +12,13 @@ With recent advancements in machine learning techniques, researchers have demons
 
 # Schedule
 
-|Time| Activity |
+|    Time    | Activity |
 |------------|----|
-| 4:00 - 4:10	| Introductions; Open up Google colab; Introduction to Neural Nets, Generative Text (Transformers), Generative Image (GANs). |
-| 4:10 - 4:40	| Hands on with CoLab notebook: CLIP + BigGAN + CMA-ES; Talk about format of textual "prompts"/inputs; Explore visual outputs. |
-| 4:40 - 5:00	| Check in on results. Participants informally share work with group; Q&A about challenges/techniques. Participants continue working. |
-| 5:00 - 5:10	| Hands on with CoLab: Interpolation and latent walks. |
-| 5:10 - 5:30	| Future directions; Discussion: What do we see when we read? How do words specify/suggest/evoke images? How can we use this artificial machine imagination to understand our human visual imagination? How might you incorporate these techniques into our creative production or scholarship? What would it mean to diversify machine imagination? |
+| 4:00-4:10	| Introductions; Open up Google colab; Introduction to Neural Nets, Generative Text (Transformers), Generative Image (GANs). |
+| 4:10-4:40	| Hands on with CoLab notebook: CLIP + BigGAN + CMA-ES; Talk about format of textual "prompts"/inputs; Explore visual outputs. |
+| 4:40-5:00	| Check in on results. Participants informally share work with group; Q&A about challenges/techniques. Participants continue working. |
+| 5:00-5:10	| Hands on with CoLab: Interpolation and latent walks. |
+| 5:10-5:30	| Future directions; Discussion: What do we see when we read? How do words specify/suggest/evoke images? How can we use this artificial machine imagination to understand our human visual imagination? How might you incorporate these techniques into our creative production or scholarship? What would it mean to diversify machine imagination? |
 
 # Background
 - What is a GAN (Generative Adversarial Network)? [TK Article on GANs]
