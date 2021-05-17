@@ -2,7 +2,7 @@
 
 U.Chicago [Digital Media Workshop](https://voices.uchicago.edu/digitalmedia/) and [Poetry and Poetics Workshop](https://voices.uchicago.edu/poetryandpoetics/) | 4-5:30pm CT, May 17, 2021
 
-Robert Twomey, Ph.D. | Johnny Carson Center for Emerging Media Arts, UNL | [roberttwomey.com](roberttwomey.com)
+Robert Twomey, Ph.D. | [roberttwomey.com](roberttwomey.com)
 
 ---
 
