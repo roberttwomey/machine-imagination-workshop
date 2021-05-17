@@ -36,7 +36,7 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 - What do you see when you read? Are some texts more or less imagistic?
 - How can we use this artificial machine imagination to understand our human visual imagination? 
 - How might you incorporate these techniques into our creative production or scholarship? 
-- What would it mean to diversify machine imagination? |
+- What would it mean to diversify machine imagination?
 
 ## References
 - Google Deep Mind BigGAN, [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://deepmind.com/research/publications/large-scale-gan-training-high-fidelity-natural-image-synthesis), 2018
