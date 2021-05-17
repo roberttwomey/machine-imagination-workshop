@@ -6,11 +6,11 @@ Robert Twomey, Ph.D. | [roberttwomey.com](roberttwomey.com)
 
 ---
 
-# Description
+## Description
 
 With recent advancements in machine learning techniques, researchers have demonstrated remarkable achievements in image synthesis (BigGAN, StyleGAN), textual understanding (GPT-3), and other areas of text and image manipulation. This hands-on workshop introduces state-of-the-art techniques for text-to-image translation, where textual prompts are used to guide the generation of visual imagery. Participants will gain experience with Open AI's CLIP network and Google's BigGAN, using free Google Colab notebooks which they can apply to their own work after the event. We will discuss other relationships between text and image in art and literature; consider the strengths and limitations of these new techniques; and relate these computational processes to human language, perception, and visual expression and imagination. __Please bring a text you would like to experiment with!__
 
-# Schedule
+## Schedule
 
 |    Time    | Activity |
 |------------|----|
@@ -21,15 +21,16 @@ With recent advancements in machine learning techniques, researchers have demons
 | 5:10	| Discussion, Future Directions | 
 | 5:30  | End |
 
-# Notebooks
+## Notebooks
 
 Click on the links below to open the corresponding notebooks in google colab.
 
+0. BigGAN - 
 1. Text to Image Generation with BigGAN and CLIP - [text_to_image_BiGGAN_CLIP.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/text_to_image_BigGAN_CLIP.ipynb)
 2. Generate latent interpolations - [generate_from_stored.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/generate_from_stored.ipynb)
 3. Batch process textual prompts - text_to_image_batch.ipynb (not yet implemented on colab)
 
-# Discussion
+## Discussion
 
 - How do words specify/suggest/evoke images? 
 - What do you see when you read? Are some texts more or less imagistic?
@@ -37,7 +38,7 @@ Click on the links below to open the corresponding notebooks in google colab.
 - How might you incorporate these techniques into our creative production or scholarship? 
 - What would it mean to diversify machine imagination? |
 
-# References
+## References
 - Google Deep Mind BigGAN, [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://deepmind.com/research/publications/large-scale-gan-training-high-fidelity-natural-image-synthesis), 2018
   - see [this BigGAN hands-on notebook](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/BigGAN_handson.ipynb) to get a sense for image generation with BigGAN, noise vectors, truncation, and latent interpolation. 
 - NVIDIA StyleGAN2, [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948), 2019
@@ -49,12 +50,12 @@ Click on the links below to open the corresponding notebooks in google colab.
   - the interactive examples on this page will give you a sense of the kind of technique we will explore during the workshop.
 - Good [list of CLIP-related to text-to-image notebooks on Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 
-# Networks
+## Networks
 
 __Generative Adversarial Networks (GANs)__
 
 <!--![image](https://user-images.githubusercontent.com/1598545/118530742-d74a1300-b6f9-11eb-9743-6d87c96961a3.png)-->
-<img width="400" alt="GAN diagram with generator and discriminator" src="https://user-images.githubusercontent.com/1598545/118530742-d74a1300-b6f9-11eb-9743-6d87c96961a3.png">
+<img width="600" alt="GAN diagram with generator and discriminator" src="https://user-images.githubusercontent.com/1598545/118530742-d74a1300-b6f9-11eb-9743-6d87c96961a3.png">
 
 A kind of generative model
 • Basic idea is to set up a game between two players (game theory)
@@ -71,7 +72,7 @@ __BigGAN__
 __CLIP__
 
 <!--![image](https://user-images.githubusercontent.com/1598545/118530808-ee890080-b6f9-11eb-8a49-1e1e73097792.png)-->
-<img width="400" alt="CLIP diagram" src="https://user-images.githubusercontent.com/1598545/118530808-ee890080-b6f9-11eb-8a49-1e1e73097792.png">
+<img width="600" alt="CLIP diagram" src="https://user-images.githubusercontent.com/1598545/118530808-ee890080-b6f9-11eb-8a49-1e1e73097792.png">
 
 CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most relevant text snippet, given an image, without directly optimizing for the task, similarly to the zero-shot capabilities of GPT-2 and 3. We found CLIP matches the performance of the original ResNet50 on ImageNet “zero-shot” without using any of the original 1.28M labeled examples, overcoming several major challenges in computer vision. https://github.com/openai/CLIP
 
