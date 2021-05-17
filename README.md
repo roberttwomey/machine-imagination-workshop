@@ -90,4 +90,6 @@ CLIP pre-trains an image encoder and a text encoder to predict which images were
 
 CLIP learns from unfiltered, highly varied, and highly noisy data ... text–image pairs that are already publicly available on the internet. See details on the [CLIP Model Card](https://github.com/openai/CLIP/blob/main/model-card.md#data)
 
+Try the Interacting with CLIP colab: https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb
+
 (from https://github.com/openai/CLIP)
