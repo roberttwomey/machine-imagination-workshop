@@ -19,7 +19,7 @@ With recent advancements in machine learning techniques, researchers have demons
 | 4:40	| Check in on results. Participants informally share work with group; Q&A about challenges/techniques. Participants continue working. |
 | 5:00	| Hands on with CoLab: Interpolation and latent walks. |
 | 5:10	| Discussion, Future Directions | 
-| 5:30  | close |
+| 5:30  | End |
 
 # Notebooks
 
