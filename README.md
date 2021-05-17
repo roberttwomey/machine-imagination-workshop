@@ -64,6 +64,8 @@ Ian Goodfellow introduced the architecture in __Generative Adversarial Nets__, G
 
 __BigGAN__
 
+<!-- ![image](https://user-images.githubusercontent.com/1598545/118533146-8daef780-b6fc-11eb-8f4a-91b205fb65b5.png)-->
+<img width="600" alt="samples from BigGAN" src="https://user-images.githubusercontent.com/1598545/118533146-8daef780-b6fc-11eb-8f4a-91b205fb65b5.png">
 
 
 
