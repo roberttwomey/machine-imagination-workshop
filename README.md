@@ -44,7 +44,7 @@ Click on the links below to open the corresponding notebooks in google colab.
 - OpenAI CLIP: [Connecting Text and Image](https://openai.com/blog/clip/), 2021
 - OpenAI DALL-E: ([link](https://openai.com/blog/dall-e/))
   - Particularly look at the interactive examples. This will give you a sense of the kind of technique we will explore during the workshop.
-- Comprehensive Reddit r/MachineLearning thread on CLIP-related text-to-image notebooks: [link](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
+- Comprehensive Reddit [r/MachineLearning thread on CLIP-related text-to-image notebooks](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 
 
 <!-- # Leftovers
