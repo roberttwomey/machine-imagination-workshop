@@ -23,7 +23,7 @@ With recent advancements in machine learning techniques, researchers have demons
 
 ## Notebooks
 
-Click on the links below to open the corresponding notebooks in google colab.
+Click on the links below to open the corresponding notebooks in google colab. You can only run one at a time.
 
 1. BigGAN - [BigGAN_handson.ipynb](https://github.com/roberttwomey/machine-imagination-workshop/blob/main/BigGAN_handson.ipynb)
 2. Text to Image Generation with BigGAN and CLIP - [text_to_image_BiGGAN_CLIP.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/text_to_image_BigGAN_CLIP.ipynb)
@@ -51,6 +51,11 @@ Click on the links below to open the corresponding notebooks in google colab.
 - Good [list of CLIP-related to text-to-image notebooks on Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 
 ## Networks
+
+__Neural Network__
+
+![image](https://user-images.githubusercontent.com/1598545/118535440-55f57f00-b6ff-11eb-8a67-9282039abc19.png)
+
 
 __Generative Adversarial Networks (GANs)__
 
