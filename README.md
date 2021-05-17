@@ -39,17 +39,19 @@ Click on the links below to open the corresponding notebooks in google colab.
 
 # References
 - Google Deep Mind BigGAN, [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://deepmind.com/research/publications/large-scale-gan-training-high-fidelity-natural-image-synthesis), 2018
+  - see [this BigGAN hands-on notebook](https://colab.research.google.com/github/roberttwomey/machine-imagination-workshop/blob/main/BigGAN_handson.ipynb) to get a sense for image generation with BigGAN, noise vectors, truncation, and latent interpolation. 
 - NVIDIA StyleGAN2, [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948), 2019
+  - see for example [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/), a photorealistic face generator with StyleGAN2
 - OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
+  - see Kenric Allado-McDowell's [Pharmako-AI](https://ignota.org/products/pharmako-ai) for an example a book written with GPT-3.
 - OpenAI CLIP: [Connecting Text and Image](https://openai.com/blog/clip/), 2021
 - OpenAI DALL-E: ([link](https://openai.com/blog/dall-e/))
-  - Particularly look at the interactive examples. This will give you a sense of the kind of technique we will explore during the workshop.
+  - the interactive examples on this page will give you a sense of the kind of technique we will explore during the workshop.
 - Reddit [r/MachineLearning thread on CLIP-related text-to-image notebooks](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
 
 
 <!-- # Leftovers
 - What is a GAN (Generative Adversarial Network)? [TK Article on GANs]
- - photorealistic face generation [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/)
 - How do computers understand/generate text? [TK]
   - excerpts from Kenric Allado-McDowell's Pharmako-AI
 -->
