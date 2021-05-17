@@ -54,8 +54,13 @@ Click on the links below to open the corresponding notebooks in google colab. Yo
 
 __Neural Network__
 
-![image](https://user-images.githubusercontent.com/1598545/118535440-55f57f00-b6ff-11eb-8a67-9282039abc19.png)
+<!-- ![image](https://user-images.githubusercontent.com/1598545/118535440-55f57f00-b6ff-11eb-8a67-9282039abc19.png)-->
+<!-- <img width="600" alt="simple feed forward network" src="https://user-images.githubusercontent.com/1598545/118535440-55f57f00-b6ff-11eb-8a67-9282039abc19.png"> -->
 
+<!-- ![image](https://user-images.githubusercontent.com/1598545/118535575-7b828880-b6ff-11eb-9fd8-40486111e3d8.png)-->
+<img width="600" alt="mnist digit classifier network" src="https://user-images.githubusercontent.com/1598545/118535575-7b828880-b6ff-11eb-9fd8-40486111e3d8.png">
+
+Neural Networks, or Artificial Neural Networks (ANNs) are networks of edges and nodes loosely modelled on the architecture of the human brain. They are generally composed of distinct layers of neurons, where outputs from one feed inputs of another. Broadly, each node resembles a neuron, accepting inputs from a number of other nodes, and defined with its own activiation function, bias, and forward connections. There are many variations on this basic architecture. Above we see a very simple fully connected, feed forward network that takes as an input 28 x 28 pixel grayscale images (784 input signals), and produces a 0-10 digit classifier on the output. Neural networks are used for many generative and predictive tasks across sound, image, text, etc.
 
 __Generative Adversarial Networks (GANs)__
 
