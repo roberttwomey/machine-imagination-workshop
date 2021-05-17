@@ -14,11 +14,11 @@ With recent advancements in machine learning techniques, researchers have demons
 
 |    Time    | Activity |
 |------------|----|
-| 4:00	| Introductions; Open up Google colab; Introduction to Neural Nets, Generative Text (Transformers), Generative Image (GANs). |
+| 4:00	| Introductions; Open up Google colab; Introduction to Neural Nets, Generative Image (GANs), Generative Text (Transformers). |
 | 4:10	| Hands on with CoLab notebook: CLIP + BigGAN + CMA-ES; Talk about format of textual "prompts"/inputs; Explore visual outputs. |
 | 4:40	| Check in on results. Participants informally share work with group; Q&A about challenges/techniques. Participants continue working. |
 | 5:00	| Hands on with CoLab: Interpolation and latent walks. |
-| 5:10	| Future directions; Discussion: What do we see when we read? How do words specify/suggest/evoke images? How can we use this artificial machine imagination to understand our human visual imagination? How might you incorporate these techniques into our creative production or scholarship? What would it mean to diversify machine imagination? |
+| 5:10	| Discussion, Future Directions
 
 # Notebooks
 
@@ -28,16 +28,25 @@ Click on the links below to open the corresponding notebooks in google colab.
 2. Generate latent interpolations - [generate_interpolations.ipynb]()
 3. Batch process textual prompts - [text_to_image_batch.ipynb]()
 
+# Discussion
+
+- How do words specify/suggest/evoke images? 
+- What do you see when you read? Are some texts more or less imagistic?
+- How can we use this artificial machine imagination to understand our human visual imagination? 
+- How might you incorporate these techniques into our creative production or scholarship? 
+- What would it mean to diversify machine imagination? |
+
 # References
 - Google Deep Mind BigGAN, [Large Scale GAN Training for High Fidelity Natural Image Synthesis](https://deepmind.com/research/publications/large-scale-gan-training-high-fidelity-natural-image-synthesis), 2018
 - NVIDIA StyleGAN2, [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948), 2019
 - OpenAI GPT-3: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165), 2020
 - OpenAI CLIP: [Connecting Text and Image](https://openai.com/blog/clip/), 2021
+- OpenAI DALL-E: ([link](https://openai.com/blog/dall-e/))
+  - Particularly look at the interactive examples. This will give you a sense of the kind of technique we will explore during the workshop.
 
-# Leftovers
+<!-- # Leftovers
 - What is a GAN (Generative Adversarial Network)? [TK Article on GANs]
  - photorealistic face generation [https://thispersondoesnotexist.com/](https://thispersondoesnotexist.com/)
 - How do computers understand/generate text? [TK]
   - excerpts from Kenric Allado-McDowell's Pharmako-AI
-- Explore Open-AIs blog post about DALL-E ([link](https://openai.com/blog/dall-e/)), including the interactive examples. This will give you a sense of the kind of technique we will explore during the workshop.
-
+-->
