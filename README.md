@@ -14,12 +14,26 @@ With recent advancements in machine learning techniques, researchers have demons
 
 |    Time    | Activity |
 |------------|----|
-| 4:00	| Introductions; Open up Google colab; Introduction to Neural Nets, Generative Image (GANs), Generative Text (Transformers). |
+| 4:00	| Introductions; Open up Google colab; Introduction to Neural Nets, Generative Adversarial Networks (GANs), Generative Text (Transformers). |
 | 4:10	| Hands on with CoLab notebook: CLIP + BigGAN + CMA-ES; Talk about format of textual "prompts"/inputs; Explore visual outputs. |
 | 4:40	| Check in on results. Participants informally share work with group; Q&A about challenges/techniques. Participants continue working. |
 | 5:00	| Hands on with CoLab: Interpolation and latent walks. |
 | 5:10	| Discussion, Future Directions | 
 | 5:30  | End |
+
+# Networks
+
+__BigGAN__
+
+![image](https://user-images.githubusercontent.com/1598545/118530742-d74a1300-b6f9-11eb-9743-6d87c96961a3.png)
+
+
+
+__CLIP__
+
+![image](https://user-images.githubusercontent.com/1598545/118530808-ee890080-b6f9-11eb-8a49-1e1e73097792.png)
+
+CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most relevant text snippet, given an image, without directly optimizing for the task, similarly to the zero-shot capabilities of GPT-2 and 3. We found CLIP matches the performance of the original ResNet50 on ImageNet “zero-shot” without using any of the original 1.28M labeled examples, overcoming several major challenges in computer vision. https://github.com/openai/CLIP
 
 # Notebooks
 
@@ -48,7 +62,6 @@ Click on the links below to open the corresponding notebooks in google colab.
 - OpenAI [DALL-E: Creating Images from Text](https://openai.com/blog/dall-e/), 2021
   - the interactive examples on this page will give you a sense of the kind of technique we will explore during the workshop.
 - Good [list of CLIP-related to text-to-image notebooks on Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/ldc6oc/p_list_of_sitesprogramsprojects_that_use_openais/)
-
 
 <!-- # Leftovers
 - What is a GAN (Generative Adversarial Network)? [TK Article on GANs]
