@@ -18,7 +18,8 @@ With recent advancements in machine learning techniques, researchers have demons
 | 4:10	| Hands on with CoLab notebook: CLIP + BigGAN + CMA-ES; Talk about format of textual "prompts"/inputs; Explore visual outputs. |
 | 4:40	| Check in on results. Participants informally share work with group; Q&A about challenges/techniques. Participants continue working. |
 | 5:00	| Hands on with CoLab: Interpolation and latent walks. |
-| 5:10	| Discussion, Future Directions
+| 5:10	| Discussion, Future Directions | 
+| 5:30  | close |
 
 # Notebooks
 
