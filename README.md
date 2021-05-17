@@ -27,7 +27,7 @@ Click on the links below to open the corresponding notebooks in google colab.
 
 1. Text to Image Generation with BigGAN and CLIP - [text_to_image_BiGGAN_CLIP.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination/blob/main/text_to_image_BigGAN_CLIP.ipynb)
 2. Generate latent interpolations - [generate_from_stored.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination/blob/main/generate_from_stored.ipynb)
-3. Batch process textual prompts - [text_to_image_batch.ipynb]()
+3. Batch process textual prompts - text_to_image_batch.ipynb (this is not yet implemented on colab)
 
 # Discussion
 
