@@ -22,7 +22,7 @@ With recent advancements in machine learning techniques, researchers have demons
 
 # Notebooks
 
-Click on the link to open the notebooks in google colab.
+Click on the links below to open the corresponding notebooks in google colab.
 
 1. Text to Image Generation with BigGAN and CLIP - [text_to_image_CLIP.ipynb](https://colab.research.google.com/github/roberttwomey/machine-imagination/blob/main/text_to_image_CLIP.ipynb)
 2. Generate latent interpolations - [generate_interpolations.ipynb]()
