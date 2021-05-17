@@ -13,7 +13,7 @@ With recent advancements in machine learning techniques, researchers have demons
 # Schedule
 
 | Time | Activity |
-|==|==|
+|----|----|
 | 4:00-4:10	| Introductions; Open up Google colab; Introduction to Neural Nets, Generative Text (Transformers), Generative Image (GANs). |
 | 4:10-4:40	| Hands on with CoLab notebook: CLIP + BigGAN + CMA-ES; Talk about format of textual "prompts"/inputs; Explore visual outputs. |
 | 4:40-5:00	| Check in on results. Participants informally share work with group; Q&A about challenges/techniques. Participants continue working. |
